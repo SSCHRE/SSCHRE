@@ -24,9 +24,12 @@
 | **Technology** | **Experience** |
 |:--------------:|:---------------|
 | <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://progress-bar.xyz/100/?width=420&color=339933"/> |
-| <img src="https://skillicons.dev/icons?i=java" width="48"/> | <img src="https://progress-bar.xyz/90/?width=420&color=F89820"/> |
-| <img src="https://skillicons.dev/icons?i=spring" width="48"/> | <img src="https://progress-bar.xyz/90/?width=420&color=6DB33F"/> |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://progress-bar.xyz/90/?width=420&color=339933"/> |
+| <img src="https://skillicons.dev/icons?i=java" width="48"/> | <img src="https://progress-bar.xyz/95/?width=420&color=F89820"/> |
+| <img src="https://skillicons.dev/icons?i=spring" width="48"/> | <img src="https://progress-bar.xyz/95/?width=420&color=6DB33F"/> |
 | <img src="https://skillicons.dev/icons?i=angular" width="48"/> | <img src="https://progress-bar.xyz/90/?width=420&color=339933"/> |
-| <img src="https://skillicons.dev/icons?i=python" width="48"/> | <img src="https://progress-bar.xyz/70/?width=420&color=339933"/> |
+| <img src="https://skillicons.dev/icons?i=python" width="48"/> | <img src="https://progress-bar.xyz/80/?width=420&color=339933"/> |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://progress-bar.xyz/60/?width=420&color=339933"/> |
+| <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://progress-bar.xyz/50/?width=420&color=339933"/> |
 
 </p>
